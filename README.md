@@ -33,7 +33,8 @@ Create a unique invite link and share it with users — they’ll be automatical
 
 ## 🚀 Getting Started
 
-Check out our documentation for how to install and run Wizarr:
+Check out our documentation for installation options, including running
+Wizarr natively on Windows:
 
 📚 https://docs.wizarr.dev/getting-started/installation
 

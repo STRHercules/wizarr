@@ -4,6 +4,9 @@
 
 #### Docker
 
+If you prefer to run Wizarr natively on Windows without Docker, see
+the [Windows Service Installation](windows-service.md) guide.
+
 {% hint style="warning" %}
 Be sure to replace`/path/to/appdata/config` in the below examples with a valid host directory path. If this volume mount is not configured correctly, your Wizarr settings/data will not be persisted when the container is recreated (e.g., when updating the image or rebooting your machine).
 
