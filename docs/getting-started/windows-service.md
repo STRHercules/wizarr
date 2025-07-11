@@ -25,8 +25,10 @@ uv sync --locked
 uv run pybabel compile -d app/translations
 uv run flask db upgrade
 uv run python -m app.legacy_migration.import_legacy
-npm --prefix app/static install
-npm --prefix app/static run build
+cd app\static
+npm install
+npm run build
+cd ..\..
 ```
 
 3. Start Wizarr to verify everything is working:
