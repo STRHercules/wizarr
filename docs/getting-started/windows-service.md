@@ -27,7 +27,7 @@ uv run flask db upgrade
 uv run python -m app.legacy_migration.import_legacy
 cd app\static
 npm install
-npm run build
+npm run build  REM builds assets (works cross-platform)
 cd ..\..
 ```
 

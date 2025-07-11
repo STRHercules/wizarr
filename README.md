@@ -33,8 +33,10 @@ Create a unique invite link and share it with users — they’ll be automatical
 
 ## 🚀 Getting Started
 
-Check out our documentation for installation options, including running
-Wizarr natively on Windows:
+Check out our documentation for installation options. To run Wizarr
+natively on Windows, follow the
+[Windows Service Installation](https://docs.wizarr.dev/getting-started/windows-service)
+guide, or see our general installation docs:
 
 📚 https://docs.wizarr.dev/getting-started/installation
 
