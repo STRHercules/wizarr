@@ -37,7 +37,8 @@ cd ..\..
 uv run python run.py
 ```
 
-Wizarr will be available at <http://localhost:5690>.
+Wizarr will be available at <http://localhost:5690>. Set the `WIZARR_PORT`
+environment variable if you need a different port.
 
 ## Running as a Service
 
