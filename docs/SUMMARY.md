@@ -5,6 +5,7 @@
 ## Getting-Started
 
 * [Installation](getting-started/installation.md)
+* [Windows Service Installation](getting-started/windows-service.md)
 * [Reverse Proxy](getting-started/reverse-proxy.md)
 
 ## Using Wizarr
